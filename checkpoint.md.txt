@@ -1,0 +1,6 @@
+O GIT é um sistema de controle de versão, utilizado para gerenciar
+alterações em programas de computador, documentos, grandes aplicações web ou outros projetos.
+Ele resolve problemas como a necessidade de fazer cópias de um mesmo projeto
+e cada alteração importante.
+Ele também, resolve o problema de acidentes durante o desenvolvimento como copiar, 
+sobrepor ou até mesmo apagar um trecho de código, ou até mesmo um ou vários arquivos e não conseguir recuperar.
