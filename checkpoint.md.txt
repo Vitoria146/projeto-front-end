@@ -1,0 +1,1 @@
+O GitHub é um serviço web utilizado para compartilhar projetos que utilizam o Git para versionamento, se tornando assim uma rede social para desenvolvedores. Sua função principal é armazenar projetos na web versionados pelo Git.
